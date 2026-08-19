@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Nguyen+Van+Thuyet+%F0%9F%91%8B;Full-stack+Developer+in+the+making;Building+useful+products+with+Code+%26+AI;Always+learning%2C+always+creating+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated rainbow divider" />
+
 <p>
   <a href="https://github.com/thuyetnvt?tab=followers"><img src="https://img.shields.io/github/followers/thuyetnvt?label=Followers&style=for-the-badge&logo=github&color=2563eb" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=thuyetnvt&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile views" />
@@ -92,10 +94,18 @@ Database, DevOps & Tools
   <img src="https://streak-stats.demolab.com?user=thuyetnvt&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </div>
 
-🐍 Contribution Activity
+🐍 Animated Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuyetnvt&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff&area=true&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuyetnvt&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff&area=true&hide_border=true&radius=12" width="100%" alt="Contribution activity graph" />
 </div>
 
 <details>
@@ -115,5 +125,7 @@ Database, DevOps & Tools
     <img src="https://img.shields.io/badge/GitHub-thuyetnvt-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <br /><br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Keep+learning.+Keep+building.+%F0%9F%9A%80;See+you+again!+%F0%9F%91%8B" alt="Animated footer typing" />
+  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:2563eb,100:0f172a&height=120&section=footer" width="100%" alt="Footer" />
 </div>
