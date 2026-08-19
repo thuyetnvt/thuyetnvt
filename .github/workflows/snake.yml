@@ -1,33 +1,32 @@
-name: Snake Game - Eat My Contributions
+name: Generate Real Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
 
 jobs:
-  build-snake-game:
+  generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Build neon snake game
-        uses: Platane/snk/svg-only@v3
+      - name: Generate a snake that hunts and eats contribution cells
+        uses: dahan8473/snake-and-commits@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-neon.svg?palette=github-dark&color_snake=#39ff14&color_dots=#020617,#052e16,#166534,#22c55e,#39ff14
+          github_user: ${{ github.repository_owner }}
+          output: dist/snake.svg
+          theme: green
+          frame: true
+          counter: true
 
-      - name: Publish game
+      - name: Publish the animated game
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
-          branch: output
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
