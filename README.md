@@ -1,131 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:06b6d4&height=220&section=header&text=NGUYEN%20VAN%20THUYET&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full-stack%20%7C%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:071a12,100:020617&height=8&section=header" alt="Neon line" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Nguyen+Van+Thuyet+%F0%9F%91%8B;Full-stack+Developer+in+the+making;Building+useful+products+with+Code+%26+AI;Always+learning%2C+always+creating+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=2200&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=%3E+PLAYER+ONE%3A+THUYET;%3E+FULL-STACK+%2F%2F+AI+DEVELOPER" alt="Animated arcade title" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Animated rainbow divider" />
+<br />
 
-<p>
-  <a href="https://github.com/thuyetnvt?tab=followers"><img src="https://img.shields.io/github/followers/thuyetnvt?label=Followers&style=for-the-badge&logo=github&color=2563eb" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=thuyetnvt&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/thuyetnvt?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-8b5cf6?style=for-the-badge&logo=github" alt="Projects" /></a>
-</p>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=020617" alt="Online" />
+<img src="https://komarev.com/ghpvc/?username=thuyetnvt&style=for-the-badge&color=39ff14&label=PLAYERS&labelColor=020617" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/thuyetnvt?style=for-the-badge&logo=github&label=ALLIES&color=39ff14&labelColor=020617" alt="Followers" />
 
-</div>
-
-👨‍💻 About Me
-
-name: Nguyen Van Thuyet
-role: Software Engineering Student
-location: Vietnam 🇻🇳
-interests:
-  - Full-stack Web Development
-  - Artificial Intelligence
-  - Computer Vision
-  - Software Architecture
-currently_building: CampusStore
-goal: Build reliable products that solve real-world problems
-
-🔭 Currently developing CampusStore — a student-focused e-commerce platform
-
-🌱 Improving my skills in .NET, React, system design and AI
-
-🤖 Interested in applying Computer Vision and intelligent systems to practical problems
-
-💡 I enjoy turning ideas into complete, usable software products
-
-📫 Connect with me through GitHub
-
-🧰 Tech Stack
-
-<div align="center">
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=cs,python,js,ts,java,html,css&theme=dark" alt="Languages" />
-
-Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,bootstrap&theme=dark" alt="Frameworks and libraries" />
-
-Database, DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,postman,vscode,visualstudio&theme=dark" alt="Tools" />
+┌────────────────────────────── PLAYER INFO ──────────────────────────────┐
+│  NAME     Nguyen Van Thuyet       CLASS    Software Engineer           │
+│  SERVER   Vietnam                 QUEST    Build useful products       │
+│  POWER    Full-stack + AI         STATUS   Learning every day          │
+└─────────────────────────────────────────────────────────────────────────┘
 
 </div>
 
-🚀 Featured Projects
+> SELECT YOUR WEAPON_
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,ts,js,html,css,mysql,docker,git,github,postman,vscode&theme=dark&perline=7" alt="Tech stack" />
 
-<a href="https://github.com/thuyetnvt/CampusStore">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thuyetnvt&repo=CampusStore&theme=tokyonight&hide_border=true&border_radius=12" alt="CampusStore" />
-</a>
-<a href="https://github.com/thuyetnvt/SentinelAI---Smart-AI-Security-System">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thuyetnvt&repo=SentinelAI---Smart-AI-Security-System&theme=tokyonight&hide_border=true&border_radius=12" alt="SentinelAI" />
-</a>
+BACKEND
 
-<a href="https://github.com/thuyetnvt/traffic-sign-recognition">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thuyetnvt&repo=traffic-sign-recognition&theme=tokyonight&hide_border=true&border_radius=12" alt="Traffic Sign Recognition" />
-</a>
-<a href="https://github.com/thuyetnvt/Software-Architecture-And-Design">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thuyetnvt&repo=Software-Architecture-And-Design&theme=tokyonight&hide_border=true&border_radius=12" alt="Software Architecture and Design" />
-</a>
+FRONTEND
+
+AI / DATA
+
+TOOLS
+
+C# · .NET · APIs
+
+React · TypeScript
+
+Python · Computer Vision
+
+Git · Docker · Postman
+
+EF Core · MySQL
+
+JavaScript · HTML · CSS
+
+Intelligent Systems
+
+GitHub · VS Code
 
 </div>
 
-🏆 GitHub Achievements
+> CHOOSE A MISSION_
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thuyetnvt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub trophies" />
+
+<a href="https://github.com/thuyetnvt/CampusStore"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thuyetnvt&repo=CampusStore&hide_border=true&bg_color=020617&title_color=39ff14&text_color=cbd5e1&icon_color=39ff14" alt="CampusStore" /></a>
+<a href="https://github.com/thuyetnvt/SentinelAI---Smart-AI-Security-System"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thuyetnvt&repo=SentinelAI---Smart-AI-Security-System&hide_border=true&bg_color=020617&title_color=39ff14&text_color=cbd5e1&icon_color=39ff14" alt="SentinelAI" /></a>
+
+<a href="https://github.com/thuyetnvt/traffic-sign-recognition"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thuyetnvt&repo=traffic-sign-recognition&hide_border=true&bg_color=020617&title_color=39ff14&text_color=cbd5e1&icon_color=39ff14" alt="Traffic Sign Recognition" /></a>
+<a href="https://github.com/thuyetnvt/Software-Architecture-And-Design"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thuyetnvt&repo=Software-Architecture-And-Design&hide_border=true&bg_color=020617&title_color=39ff14&text_color=cbd5e1&icon_color=39ff14" alt="Software Architecture" /></a>
+
 </div>
 
-📊 GitHub Analytics
+> PLAYER STATS_
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thuyetnvt&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuyetnvt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thuyetnvt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=39ff14&text_color=cbd5e1&icon_color=39ff14" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuyetnvt&layout=compact&langs_count=6&hide_border=true&bg_color=020617&title_color=39ff14&text_color=cbd5e1" alt="Top languages" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=thuyetnvt&hide_border=true&background=020617&stroke=39FF14&ring=39FF14&fire=FACC15&currStreakNum=FFFFFF&sideNums=CBD5E1&currStreakLabel=39FF14&sideLabels=CBD5E1&dates=64748B" alt="GitHub streak" />
+</div>
+
+> SNAKE vs. COMMITS_ 🐍
+
+<div align="center">
+
+SCORE: CONTRIBUTIONS   •   MODE: ENDLESS   •   SPEED: DAILY
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/output/snake-neon.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/output/snake-neon.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/output/snake-neon.svg" alt="Snake eating GitHub contributions" />
+</picture>
+
+◀ ▲ ▼ ▶    THE SNAKE EATS EVERY COMMIT    PRESS START
+
+</div>
+
+> ACTIVITY MAP_
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thuyetnvt&bg_color=020617&color=39ff14&line=22c55e&point=facc15&area=true&area_color=14532d&hide_border=true&custom_title=CONTRIBUTION%20LEVEL%20MAP" alt="Contribution activity map" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thuyetnvt&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-</div>
 
-🐍 Animated Contribution Graph
+╔══════════════════════════════════════════════════╗
+║              THANKS FOR PLAYING!                 ║
+║       INSERT ⭐ TO SUPPORT THIS PLAYER           ║
+╚══════════════════════════════════════════════════╝
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
-  </picture>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1800&pause=700&color=39FF14&center=true&vCenter=true&width=650&lines=KEEP+CODING...;KEEP+LEVELING+UP...;GAME+NEVER+OVER!" alt="Animated message" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuyetnvt&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff&area=true&hide_border=true&radius=12" width="100%" alt="Contribution activity graph" />
-</div>
+<br /><br />
 
-<details>
-  <summary><b>📈 More GitHub Metrics</b></summary>
-  <br />
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thuyetnvt&theme=tokyonight" width="100%" alt="Profile summary" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thuyetnvt&theme=tokyonight" width="49%" alt="Repositories per language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thuyetnvt&theme=tokyonight&utcOffset=7" width="49%" alt="Productive time" />
-  </div>
-</details>
+<a href="https://github.com/thuyetnvt"><img src="https://img.shields.io/badge/%E2%96%B6%20CONTINUE-GITHUB-39FF14?style=for-the-badge&labelColor=020617&logo=github" alt="Continue" /></a>
 
-<div align="center">
-  <h3>💬 Let's connect and build something meaningful!</h3>
-  <p>If you like my work, consider giving my repositories a ⭐</p>
-  <a href="https://github.com/thuyetnvt">
-    <img src="https://img.shields.io/badge/GitHub-thuyetnvt-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <br /><br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Keep+learning.+Keep+building.+%F0%9F%9A%80;See+you+again!+%F0%9F%91%8B" alt="Animated footer typing" />
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:2563eb,100:0f172a&height=120&section=footer" width="100%" alt="Footer" />
+<br /><br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:39ff14,100:020617&height=4&section=footer" alt="Neon footer" />
+
 </div>
