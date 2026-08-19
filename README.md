@@ -1,56 +1,70 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=900&color=16A34A&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen+Van+Thuyet;Full-stack+Developer+%26+AI+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing introduction" />
+Hi there, I'm Nguyễn Văn Thuyết 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=16A34A&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-stack+Developer+%7C+AI+Enthusiast;Turning+ideas+into+useful+products" alt="Typing introduction" />
 
 <p>
-  <a href="https://github.com/thuyetnvt"><img src="https://img.shields.io/badge/GitHub-thuyetnvt-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=thuyetnvt&color=16a34a&style=flat-square&label=Profile+views" alt="Profile views" />
+  <a href="https://github.com/thuyetnvt"><img src="https://img.shields.io/badge/GitHub-thuyetnvt-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=thuyetnvt&label=Profile%20views&color=16a34a&style=for-the-badge" alt="Profile views" />
 </p>
 
-<i>Software Engineering student from Vietnam 🇻🇳 — building practical products with Web and AI.</i>
-
 </div>
 
-👨‍💻 About me
+👨‍💻 Giới thiệu
 
-🔭 Currently building CampusStore, a student-focused e-commerce platform
+🎓 Sinh viên Công nghệ phần mềm tại Việt Nam
 
-🌱 Learning Full-stack Development, Software Architecture and Artificial Intelligence
+🔭 Đang phát triển CampusStore — nền tảng thương mại điện tử dành cho sinh viên
 
-🤖 Interested in Computer Vision and intelligent systems
+🌱 Học và thực hành Full-stack, Software Architecture và AI
 
-🎯 Goal: create reliable products that solve real-world problems
+🤖 Quan tâm đến Computer Vision và các hệ thống thông minh
 
-🛠️ Languages and tools
+🎯 Mục tiêu: tạo ra những sản phẩm hữu ích, ổn định và giải quyết vấn đề thực tế
+
+🛠️ Công nghệ sử dụng
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,ts,js,html,css,mysql,docker,git,github,postman,vscode&theme=light&perline=14" alt="Languages and tools" />
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,ts,js,html,css,mysql,docker,git,github,postman,vscode&theme=light&perline=7" alt="Technology stack" />
+
 </div>
 
-🚀 Featured projects
+🚀 Dự án nổi bật
 
-🛒 CampusStore — E-commerce platform built with .NET, React and MySQL
+🛒 CampusStore
 
-🛡️ SentinelAI — Smart AI security system
+Nền tảng thương mại điện tử dành cho sinh viên, xây dựng với .NET, React, TypeScript, MySQL và Entity Framework Core.
 
-🚦 Traffic Sign Recognition — Traffic-sign recognition using Computer Vision
+🛡️ SentinelAI — Smart AI Security System
 
-🏗️ Software Architecture and Design — Software architecture exercises and experiments
+Hệ thống an ninh thông minh kết hợp AI, backend services, frontend và Docker.
 
-🐍 Snake eating my contributions
+🚦 Traffic Sign Recognition
+
+Dự án Computer Vision sử dụng Python để nhận diện biển báo giao thông.
+
+🏗️ Software Architecture and Design
+
+Bài tập và thử nghiệm về thiết kế, tổ chức và kiến trúc phần mềm.
+
+🐍 Quá trình hoạt động
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/output/snake.svg" width="100%" alt="Snake hunts and eats GitHub contribution cells" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/gh-pages/snake-neon.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/gh-pages/snake-neon.svg" />
+  <img src="https://raw.githubusercontent.com/thuyetnvt/thuyetnvt/gh-pages/snake-neon.svg" width="100%" alt="Con rắn đang ăn các ô contribution" />
 </picture>
-
-<sub>The snake hunts every commit cell, eats it as food and grows longer.</sub>
 
 </div>
 
 <div align="center">
-  <b>Thanks for visiting! ⭐</b>
+
+Cảm ơn bạn đã ghé thăm! 🌱
+
+<sub>Nếu bạn thấy dự án hữu ích, hãy để lại một ⭐ nhé.</sub>
+
 </div>
